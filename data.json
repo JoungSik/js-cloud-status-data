@@ -8,17 +8,17 @@
         "url": "https://js-banjiha.cloud",
         "services": [
           {
-            "id": "rails",
+            "id": "web",
             "label": "웹사이트",
             "show_response_time": true
           },
           {
-            "id": "caddy",
+            "id": "proxy",
             "label": "사용자 서비스 접속",
             "show_response_time": true
           },
           {
-            "id": "openvpn",
+            "id": "vpn",
             "label": "VPN",
             "show_response_time": false
           }
@@ -27,42 +27,42 @@
     ]
   },
   "summary": {
-    "rails": {
+    "web": {
       "status": "operational",
       "uptime": 100,
-      "total": 2,
-      "avgMs": 837,
+      "total": 3,
+      "avgMs": 821,
       "byDay": {
         "2026-05-03": {
-          "up": 2,
+          "up": 3,
           "down": 0
         }
       }
     },
-    "caddy": {
+    "proxy": {
       "status": "operational",
       "uptime": 100,
-      "total": 2,
-      "avgMs": 581,
+      "total": 3,
+      "avgMs": 553,
       "byDay": {
         "2026-05-03": {
-          "up": 2,
+          "up": 3,
           "down": 0
         }
       }
     },
-    "openvpn": {
+    "vpn": {
       "status": "operational",
       "uptime": 100,
-      "total": 2,
+      "total": 3,
       "avgMs": 10000,
       "byDay": {
         "2026-05-03": {
-          "up": 2,
+          "up": 3,
           "down": 0
         }
       }
     }
   },
-  "lastUpdate": "2026-05-03T12:42:50Z"
+  "lastUpdate": "2026-05-03T13:24:21Z"
 }
