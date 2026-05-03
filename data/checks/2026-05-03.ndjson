@@ -1,6 +1,6 @@
-{"ts":"2026-05-03T12:11:08Z","target":"rails","ok":true,"ms":877,"status_code":200}
-{"ts":"2026-05-03T12:11:09Z","target":"caddy","ok":true,"ms":630,"status_code":200}
-{"ts":"2026-05-03T12:11:09Z","target":"openvpn","ok":true,"ms":10000,"note":"server_responded"}
-{"ts":"2026-05-03T12:42:49Z","target":"rails","ok":true,"ms":796,"status_code":200}
-{"ts":"2026-05-03T12:42:50Z","target":"caddy","ok":true,"ms":532,"status_code":200}
-{"ts":"2026-05-03T12:42:50Z","target":"openvpn","ok":true,"ms":10000,"note":"server_responded"}
+{"ts":"2026-05-03T12:11:08Z","target":"web","ok":true,"ms":877,"status_code":200}
+{"ts":"2026-05-03T12:11:09Z","target":"proxy","ok":true,"ms":630,"status_code":200}
+{"ts":"2026-05-03T12:11:09Z","target":"vpn","ok":true,"ms":10000,"note":"server_responded"}
+{"ts":"2026-05-03T12:42:49Z","target":"web","ok":true,"ms":796,"status_code":200}
+{"ts":"2026-05-03T12:42:50Z","target":"proxy","ok":true,"ms":532,"status_code":200}
+{"ts":"2026-05-03T12:42:50Z","target":"vpn","ok":true,"ms":10000,"note":"server_responded"}
