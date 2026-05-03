@@ -4,22 +4,22 @@
       {
         "id": "banjiha",
         "label": "Banjiha Cloud",
-        "description": "Proxmox VE 기반 소규모 VM 호스팅 PaaS",
+        "description": "VM 호스팅 서비스",
         "url": "https://js-banjiha.cloud",
         "services": [
           {
             "id": "rails",
-            "label": "관리 Rails 앱",
+            "label": "웹사이트",
             "show_response_time": true
           },
           {
             "id": "caddy",
-            "label": "리버스 프록시 (Caddy)",
+            "label": "사용자 서비스 접속",
             "show_response_time": true
           },
           {
             "id": "openvpn",
-            "label": "OpenVPN",
+            "label": "VPN",
             "show_response_time": false
           }
         ]
@@ -30,11 +30,11 @@
     "rails": {
       "status": "operational",
       "uptime": 100,
-      "total": 1,
-      "avgMs": 877,
+      "total": 2,
+      "avgMs": 837,
       "byDay": {
         "2026-05-03": {
-          "up": 1,
+          "up": 2,
           "down": 0
         }
       }
@@ -42,11 +42,11 @@
     "caddy": {
       "status": "operational",
       "uptime": 100,
-      "total": 1,
-      "avgMs": 630,
+      "total": 2,
+      "avgMs": 581,
       "byDay": {
         "2026-05-03": {
-          "up": 1,
+          "up": 2,
           "down": 0
         }
       }
@@ -54,15 +54,15 @@
     "openvpn": {
       "status": "operational",
       "uptime": 100,
-      "total": 1,
+      "total": 2,
       "avgMs": 10000,
       "byDay": {
         "2026-05-03": {
-          "up": 1,
+          "up": 2,
           "down": 0
         }
       }
     }
   },
-  "lastUpdate": "2026-05-03T12:11:09Z"
+  "lastUpdate": "2026-05-03T12:42:50Z"
 }
