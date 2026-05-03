@@ -1,0 +1,31 @@
+{
+  "services": {
+    "groups": [
+      {
+        "id": "banjiha",
+        "label": "Banjiha Cloud",
+        "description": "Proxmox VE 기반 소규모 VM 호스팅 PaaS",
+        "url": "https://js-banjiha.cloud",
+        "services": [
+          {
+            "id": "rails",
+            "label": "관리 Rails 앱",
+            "show_response_time": true
+          },
+          {
+            "id": "caddy",
+            "label": "리버스 프록시 (Caddy)",
+            "show_response_time": true
+          },
+          {
+            "id": "openvpn",
+            "label": "OpenVPN",
+            "show_response_time": false
+          }
+        ]
+      }
+    ]
+  },
+  "summary": {},
+  "lastUpdate": null
+}
