@@ -4,7 +4,7 @@ JS Cloud status 페이지의 측정 데이터 저장소. 사이트 코드는 별
 
 - 측정 주기: 60분 (GitHub Actions cron)
 - 자동 갱신: status repo의 collect.yml workflow가 push
-- CDN 노출: jsDelivr (`https://cdn.jsdelivr.net/gh/JoungSik/js-cloud-status-data@main/data.json`)
+- 사이트 fetch URL: GitHub raw (`https://raw.githubusercontent.com/JoungSik/js-cloud-status-data/main/data.json`, 5분 캐시)
 - 보관 기간: 365일 (자동 삭제)
 
 ## 파일
