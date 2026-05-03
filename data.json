@@ -26,6 +26,43 @@
       }
     ]
   },
-  "summary": {},
-  "lastUpdate": null
+  "summary": {
+    "rails": {
+      "status": "operational",
+      "uptime": 100,
+      "total": 1,
+      "avgMs": 877,
+      "byDay": {
+        "2026-05-03": {
+          "up": 1,
+          "down": 0
+        }
+      }
+    },
+    "caddy": {
+      "status": "operational",
+      "uptime": 100,
+      "total": 1,
+      "avgMs": 630,
+      "byDay": {
+        "2026-05-03": {
+          "up": 1,
+          "down": 0
+        }
+      }
+    },
+    "openvpn": {
+      "status": "operational",
+      "uptime": 100,
+      "total": 1,
+      "avgMs": 10000,
+      "byDay": {
+        "2026-05-03": {
+          "up": 1,
+          "down": 0
+        }
+      }
+    }
+  },
+  "lastUpdate": "2026-05-03T12:11:09Z"
 }
