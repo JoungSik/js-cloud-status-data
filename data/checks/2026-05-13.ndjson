@@ -1,0 +1,3 @@
+{"ts":"2026-05-13T00:19:54Z","target":"web","ok":true,"ms":816,"status_code":200}
+{"ts":"2026-05-13T00:19:54Z","target":"proxy","ok":true,"ms":538,"status_code":200}
+{"ts":"2026-05-13T00:19:54Z","target":"vpn","ok":false,"ms":45037,"note":"no_response_or_timeout:attempts=3"}
