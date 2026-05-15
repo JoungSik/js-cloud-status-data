@@ -30,7 +30,7 @@
     "web": {
       "status": "operational",
       "uptime": 100,
-      "total": 265,
+      "total": 266,
       "avgMs": 780,
       "byDay": {
         "2026-05-03": {
@@ -82,7 +82,7 @@
           "down": 0
         },
         "2026-05-15": {
-          "up": 13,
+          "up": 14,
           "down": 0
         }
       }
@@ -90,7 +90,7 @@
     "proxy": {
       "status": "operational",
       "uptime": 100,
-      "total": 265,
+      "total": 266,
       "avgMs": 525,
       "byDay": {
         "2026-05-03": {
@@ -142,16 +142,16 @@
           "down": 0
         },
         "2026-05-15": {
-          "up": 13,
+          "up": 14,
           "down": 0
         }
       }
     },
     "vpn": {
-      "status": "down",
-      "uptime": 89.05660377358491,
-      "total": 265,
-      "avgMs": 13302,
+      "status": "operational",
+      "uptime": 89.09774436090225,
+      "total": 266,
+      "avgMs": 13309,
       "byDay": {
         "2026-05-03": {
           "up": 11,
@@ -202,11 +202,11 @@
           "down": 2
         },
         "2026-05-15": {
-          "up": 12,
+          "up": 13,
           "down": 1
         }
       }
     }
   },
-  "lastUpdate": "2026-05-15T15:39:23Z"
+  "lastUpdate": "2026-05-15T16:32:09Z"
 }
