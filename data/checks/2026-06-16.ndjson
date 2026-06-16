@@ -1,0 +1,3 @@
+{"ts":"2026-06-16T00:32:00Z","target":"web","ok":true,"ms":764,"status_code":200}
+{"ts":"2026-06-16T00:32:00Z","target":"proxy","ok":true,"ms":536,"status_code":200}
+{"ts":"2026-06-16T00:32:00Z","target":"vpn","ok":true,"ms":15014,"note":"server_responded"}
