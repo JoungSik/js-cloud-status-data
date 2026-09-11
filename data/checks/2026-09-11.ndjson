@@ -13,3 +13,6 @@
 {"ts":"2026-09-11T18:48:07Z","target":"web","ok":true,"ms":923,"status_code":200}
 {"ts":"2026-09-11T18:48:08Z","target":"proxy","ok":true,"ms":601,"status_code":200}
 {"ts":"2026-09-11T18:48:08Z","target":"vpn","ok":false,"ms":45039,"note":"no_response_or_timeout:attempts=3"}
+{"ts":"2026-09-11T21:23:15Z","target":"web","ok":true,"ms":964,"status_code":200}
+{"ts":"2026-09-11T21:23:15Z","target":"proxy","ok":true,"ms":573,"status_code":200}
+{"ts":"2026-09-11T21:23:15Z","target":"vpn","ok":true,"ms":15013,"note":"server_responded"}
