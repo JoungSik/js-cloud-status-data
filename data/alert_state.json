@@ -1,5 +1,5 @@
 {
-  "vpn": "down",
-  "web": "down",
-  "proxy": "down"
+  "vpn": "ok",
+  "web": "ok",
+  "proxy": "ok"
 }
